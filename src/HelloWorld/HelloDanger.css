@@ -1,0 +1,9 @@
+.alert {
+    background-color: red;
+    color: yellow;
+    width: 200px;
+    padding: 20px;
+    text-align: center;
+    font-size: 160%;
+
+}
